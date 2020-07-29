@@ -6,5 +6,6 @@ ng build custom-tree
 ### 发布
 进入dist目录下面的custom-tree
 ```
-npm publish
+npm publishuoy
 ```
+### 最新版的antd已经可以支持自定义节点
